@@ -1,2 +1,25 @@
-
+*{
+  background-color: #F4CE14;
+  color: #45474B;
+}
+button{
+  background-color:#379777 ;
+  color: #45474B;
+  margin-left: 600px;
+  margin-top:20px ;
+  height:   80px;
+  width: 120px;
+  font-size: larger;
+  font-weight:1000;
+}
+h1{
+  text-align: center;
+  font-size: 100px;
+  margin-top: 30px;
+}
+h2{
+  text-align: center;
+  font-size: 60px;
+  margin-top: 30px;
+}
   
